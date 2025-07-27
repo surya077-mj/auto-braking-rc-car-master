@@ -28,9 +28,7 @@ To successfully run this project, it is required to have the following software 
 It should be noted that this project was developed on a Microsoft Windows 10 (64 Bit) machine, however, it should work on other platforms too with minor tweaks here and there. Servo library should be installed for Arduino to control the servo motor on the RC car.
 
 #### Software
-Clone this repository by launching the command prompt and changing to your desired directory. Then type 
-```
-git clone https://github.com/canozcivelek/auto-braking-rc-car.git
+Clone this repository by launching the command prompt and changing to your desired directory.
 ```
 Having already satisfied the prerequisites, software side of this project is now completed.
 
